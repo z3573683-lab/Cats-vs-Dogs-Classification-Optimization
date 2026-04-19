@@ -81,7 +81,6 @@ Beyond accuracy, I integrated **Grad-CAM** (Gradient-weighted Class Activation M
 
 ### 2. Confusion Matrix
 ![Confusion Matrix](Confution_Matrix.png)
-
 **Description**
 
 This Confusion Matrix shows the high performance of the model on the test set. Out of 2,000+ images, the model correctly identified 972 Dogs and 946 Cats, achieving a balanced and high accuracy across both classes.
