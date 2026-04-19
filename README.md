@@ -109,6 +109,21 @@ This Confusion Matrix shows the high performance of the model on the test set. O
 ### 3. Classification Report
 ![Classification Report](Classification_Report.png)
 
+**Description**
+
+The classification report provides a deep dive into the model's performance:
+
+​**Precision & Recall:** Both classes (Cat and Dog) achieved high scores (0.94 - 0.96), meaning the model is equally good at identifying both and rarely makes false positive/negative errors.
+
+​**F1-Score:**An impressive 0.95 for both classes confirms the robustness and balance of the classifier.
+​Support: Tested on 2,023 images, ensuring the results are statistically significant.
+
+​العربية:
+​يوضح تقرير التصنيف (Classification Report) تفاصيل دقيقة لأداء النموذج:
+​الدقة والاستدعاء (Precision & Recall): حقق النموذج نتائج عالية جداً لكلا الفئتين (بين 0.94 و 0.96)، مما يعني أن الموديل متوازن تماماً في التعرف على القطط والكلاب على حد سواء.
+​F1-Score: الوصول لـ 0.95 يؤكد قوة النموذج وقدرته على اتخاذ قرارات صحيحة ومستقرة.
+​إجمالي العينات (Support): تم الاختبار على 2,023 صورة، مما يعطي مصداقية كبيرة لهذه النتائج.
+
 ### 4. Final Evaluation Results
 ![Final Evaluation](model_Evaluation.png)
 
