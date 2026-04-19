@@ -119,10 +119,13 @@ The classification report provides a deep dive into the model's performance:
 ​Support: Tested on 2,023 images, ensuring the results are statistically significant.
 
 ​العربية:
+
 ​يوضح تقرير التصنيف (Classification Report) تفاصيل دقيقة لأداء النموذج:
-​الدقة والاستدعاء (Precision & Recall): حقق النموذج نتائج عالية جداً لكلا الفئتين (بين 0.94 و 0.96)، مما يعني أن الموديل متوازن تماماً في التعرف على القطط والكلاب على حد سواء.
-​F1-Score: الوصول لـ 0.95 يؤكد قوة النموذج وقدرته على اتخاذ قرارات صحيحة ومستقرة.
-​إجمالي العينات (Support): تم الاختبار على 2,023 صورة، مما يعطي مصداقية كبيرة لهذه النتائج.
+
+**​الدقة والاستدعاء (Precision & Recall):** حقق النموذج نتائج عالية جداً لكلا الفئتين (بين 0.94 و 0.96)، مما يعني أن الموديل متوازن تماماً في التعرف على القطط والكلاب على حد سواء.
+​
+**F1-Score:** الوصول لـ 0.95 يؤكد قوة النموذج وقدرته على اتخاذ قرارات صحيحة ومستقرة.
+
 
 ### 4. Final Evaluation Results
 ![Final Evaluation](model_Evaluation.png)
