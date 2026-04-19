@@ -82,13 +82,17 @@ Beyond accuracy, I integrated **Grad-CAM** (Gradient-weighted Class Activation M
 **Description**
 
 These learning curves demonstrate the stability and performance of the CNN model over 10 epochs.
+
 ​**Accuracy Curve:** Shows a consistent upward trend for both training and validation accuracy, peaking at ~95%, with no significant gap, indicating a well-generalized model.
+
 **Loss Curve:** Displays a smooth decline in both training and validation loss, confirming that the model effectively minimized errors without suffering from overfitting.
 
 ​العربية:
 
 ​توضح هذه المنحنيات البيانية استقرار وأداء نموذج الـ CNN خلال 10 دورات تدريبية (Epochs):
+
 **​منحنى الدقة (Accuracy):** يظهر اتجاهاً تصاعدياً مستمراً لكل من دقة التدريب والاختبار، حيث وصلت الدقة إلى حوالي 95% مع تقارب واضح بين المنحنيين، مما يدل على قدرة النموذج على التعميم بشكل ممتاز.
+
 **​منحنى الخسارة (Loss):** يظهر انخفاضاً تدريجياً وسلساً في قيم الخسارة، مما يؤكد نجاح النموذج في تقليل الأخطاء بكفاءة عالية دون الوقوع في مشكلة الـ Overfitting
 
 ### 2. Confusion Matrix
