@@ -130,6 +130,22 @@ The classification report provides a deep dive into the model's performance:
 ### 4. Final Evaluation Results
 ![Final Evaluation](model_Evaluation.png)
 
+**Description**
+
+The final evaluation on the unseen test set confirms the model's high reliability:
+
+​**Test Accuracy: 94.81%,** demonstrating that the model has successfully learned to generalize and distinguish between cats and dogs with high precision.
+​**Test Loss: 0.1403,** indicating a very low error rate and high confidence in the model's predictions.
+
+This result validates the effectiveness of the custom CNN architecture and the optimization techniques applied throughout the project.
+
+​العربية:
+
+​التقييم النهائي على بيانات الاختبار (Unseen Test Set) يؤكد مدى موثوقية النموذج:
+​دقة الاختبار النهائية: 94.81%، مما يثبت نجاح النموذج في التمييز بين القطط والكلاب بدقة عالية وقدرة ممتازة على التعميم.
+​نسبة الخطأ (Loss): 0.1403، وهي نسبة ضئيلة جداً تعكس ثقة النموذج العالية في توقعاته.
+هذه النتيجة هي تتويج لمعمارية الـ CNN المخصصة وتقنيات التحسين التي تم تطبيقها خلال المشروع.
+
 ### 5. Explainable AI (Grad-CAM Visualizations)
 | Sample 1 | Sample 2 | Sample 3 |
 | :---: | :---: | :---: |
