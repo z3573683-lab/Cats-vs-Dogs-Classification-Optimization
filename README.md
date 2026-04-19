@@ -1,4 +1,4 @@
-# Cats-vs-Dogs-Classification-Optimization
+# Cats-vs-Dogs-Classification-FromScratch-Optimization
 A high-performance custom CNN for Cats vs Dogs classification, achieving 94.81% accuracy with model interpretability using Grad-CAM
 
 # 🐾 Cats vs Dogs Classification from Scratch: The Optimization Journey (95% Accuracy)
